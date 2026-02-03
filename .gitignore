@@ -1,0 +1,23 @@
+# Secrets 
+.env 
+*.key 
+*.pem 
+ 
+# Data folders 
+data/ 
+workspace/ 
+memory/ 
+*.db 
+*.sqlite 
+chromadb/ 
+ 
+# Python 
+__pycache__/ 
+*.pyc 
+venv/ 
+ 
+# IDE 
+.vscode/ 
+.idea/ 
+.env 
+.env 
