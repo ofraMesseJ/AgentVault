@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://oframessej.com">
+    <img src="https://raw.githubusercontent.com/ofraMesseJ/ofraMesseJ/main/social-AgentVault.png" alt="ofraMesseJ — AgentVault" width="100%" />
+  </a>
+</p>
+
 # AgentVault
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
